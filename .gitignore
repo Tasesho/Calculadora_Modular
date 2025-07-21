@@ -1,0 +1,4 @@
+# Ignorar binarios y ejecutables
+*.exe
+# Carpeta de configuración de VSCode
+.vscode/
